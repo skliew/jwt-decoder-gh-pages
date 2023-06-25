@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jwt-decoder-gh-pages/static/css/main.c6c967b6.css",
+    "main.js": "/jwt-decoder-gh-pages/static/js/main.4e9c0ead.js",
+    "static/js/787.c986cb97.chunk.js": "/jwt-decoder-gh-pages/static/js/787.c986cb97.chunk.js",
+    "index.html": "/jwt-decoder-gh-pages/index.html",
+    "main.c6c967b6.css.map": "/jwt-decoder-gh-pages/static/css/main.c6c967b6.css.map",
+    "main.4e9c0ead.js.map": "/jwt-decoder-gh-pages/static/js/main.4e9c0ead.js.map",
+    "787.c986cb97.chunk.js.map": "/jwt-decoder-gh-pages/static/js/787.c986cb97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c967b6.css",
+    "static/js/main.4e9c0ead.js"
+  ]
+}
